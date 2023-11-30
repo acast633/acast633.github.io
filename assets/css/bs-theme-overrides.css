@@ -1,0 +1,10 @@
+:root, [data-bs-theme=light] {
+  --bs-body-color: #f4f5f7;
+  --bs-body-color-rgb: 244,245,247;
+  --bs-secondary-color: rgba(244,245,247,0.75);
+  --bs-secondary-color-rgb: 244,245,247,0.75;
+  --bs-tertiary-color: rgba(244,245,247,0.5);
+  --bs-tertiary-color-rgb: 244,245,247,0.5;
+  --bs-body-font-size: 2rem;
+}
+
